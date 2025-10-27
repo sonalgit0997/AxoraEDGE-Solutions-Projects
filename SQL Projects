@@ -1,7 +1,35 @@
-
 #1.Write a query to return all products.
 #2.Write a query to return only customer names and emails.
 #3.Get all customers from the USA.
 #4.Get all products with a price less than ₹1000.
 #5.List the top 5 cheapest products using ORDER BY and LIMIT.
 #6.Show all orders placed on ‘2024-03-01’.
+
+#1
+SELECT *
+FROM products
+
+#2
+SELECT customer_name, email
+FROM customers
+
+#3
+SELECT customer_name, country
+FROM customer
+WHERE country = 'USA';
+
+#4
+SELECT *
+FROM customers
+WHERE price < 1000;
+
+#5
+SELECT product_name, price
+FROM products
+ORDER BY price DESC
+LIMIT 5;
+
+#6
+SELECT * 
+FROM orders
+WHERE order_date = '2024-01-01';
