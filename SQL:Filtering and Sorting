@@ -1,0 +1,8 @@
+#1.Show all customers from either India, USA, or Canada.
+#2.List all orders placed between ‘2024-02-01’ and ‘2024-03-01’.
+#3.Get the 10 cheapest products in the ‘Fitness’ category.
+#4.Find all customers whose names start with ‘S’ or end with ‘a’.
+#5.Show all products where the price is NOT between ₹500 and ₹1000.
+#6.Show customers with missing email addresses.
+#7.List all products in descending order of price.
+#8.Return all orders where the order date is in 2024 and the price is greater than ₹500.
