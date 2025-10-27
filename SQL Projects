@@ -1,1 +1,7 @@
 
+#1.Write a query to return all products.
+#2.Write a query to return only customer names and emails.
+#3.Get all customers from the USA.
+#4.Get all products with a price less than ₹1000.
+#5.List the top 5 cheapest products using ORDER BY and LIMIT.
+#6.Show all orders placed on ‘2024-03-01’.
