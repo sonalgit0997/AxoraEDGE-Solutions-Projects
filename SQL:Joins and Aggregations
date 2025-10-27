@@ -1,0 +1,7 @@
+#1.List all orders with customer names and product names.
+#2.Find the total number of orders each product has received.
+#3.Get a list of customers who haven’t placed any order.
+#4.Calculate the average price of products by category.
+#5.List all customers with their total amount spent.
+#6.Determine the most popular product category by order count.
+#7.Identify which product was ordered most often in March 2024.
